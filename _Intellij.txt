@@ -9,6 +9,7 @@
     -   Ctrl + Alt + i      //줄 단위 코드 정렬
     -   Ctrl + Shift + B        //선언부로 가기
     -   F4        //show source
+    -   Ctrl + Alt + T      //다양한 if, try-catch등의 블록 자동생성
 
 [편집기]
     -   Alt + 좌우 이동키        //편집기 이동
