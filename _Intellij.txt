@@ -5,11 +5,17 @@
     -   Shift + F6      //Refactoring(rename)
     -   Alt + Insert        //코드 생성
     -   Ctrl + +/-      //코드 접었다 펴기
+    -   Ctrl + Shift + +/-      //[모두]코드 접었다 펴기
     -   Ctrl + Alt + O      //import 정리
     -   Ctrl + Alt + i      //줄 단위 코드 정렬
     -   Ctrl + Shift + B        //선언부로 가기
     -   F4        //show source
     -   Ctrl + Alt + T      //다양한 if, try-catch등의 블록 자동생성
+    -   Ctrl + Alt + L      //코드 재정렬
+    -   Ctrl + Shift + J        // 스마트하게 코드를 한 줄로 합친다
+    -   Ctrl + Shift + U        //소문자 <--> 대문자
+    -   Ctrl + Delete       //단어 삭제 (커서 시작부터)
+    -   Ctrl + Backspace        //단어 삭제(커서 시작전까지)
 
 [편집기]
     -   Alt + 좌우 이동키        //편집기 이동
