@@ -112,3 +112,13 @@
 
 `ctrl`+`shift`+`u` : OUTPUT<br>
 `ctrl`+`shift`+`m` : 에러 보기<br>
+
+# Vscode Extension <br>
+ - prettier
+ - indent window
+ - auto rename tag
+ - rest client
+ - css peek
+ - html css support
+ - live sass compiler
+ - emmet
