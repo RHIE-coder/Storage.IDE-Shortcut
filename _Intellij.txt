@@ -28,3 +28,20 @@
     -   Shift + F6      //파일 이름 바꾸기
     -   Alt + F12       //터미널
     -   Ctrl + Shift + F12      //hide all window without editor
+
+
+### 콘솔 한글 깨짐
+Shift 2번>Edit VM>아래 텍스트 추가>Restart
+-Dfile.encoding=UTF-8
+
+### Eclipse에서 Intellij로 변경하기(Tomcat 기준)
+ 1. Empty project
+ 2. File - New - Module from Existing Sources...
+ 3. File - Project Structure
+ 4. Project : SDK와 Language Level 설정
+ 5. Modules : Eclipse 항목 제거 > 서버 Library 추가(Tomcat)
+ 6. Facets : Web > Web Resource Directory의 Path를 WebContent로 변경
+ 7. Facets : WebServices > Apache Axis 엔진
+ 8. Artifacts : Web Application > From Modules
+ 9. Build > Build Project (.idea 생성 확인해보기)
+ 10. Build > Build Artifacts (out 생성 확인해보기)
