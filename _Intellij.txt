@@ -1,6 +1,6 @@
 [IDE]
     -   Ctrl + Alt + S      //환경설정
-    
+
 [코드]
     -   Ctrl + P        //인자값 즉시 보기
     -   Ctrl + Shift + i        //코드 구현부 즉시 보기
@@ -19,6 +19,8 @@
     -   Ctrl + Shift + U        //소문자 <--> 대문자
     -   Ctrl + Delete       //단어 삭제 (커서 시작부터)
     -   Ctrl + Backspace        //단어 삭제(커서 시작전까지)
+    -   Ctrl + Y        //라인 삭제
+    -   Ctrl + Shift + Z        //Redo
 
 [편집기]
     -   Alt + 좌우 이동키        //편집기 이동
