@@ -21,6 +21,8 @@
     -   Ctrl + Backspace        //단어 삭제(커서 시작전까지)
     -   Ctrl + Y        //라인 삭제
     -   Ctrl + Shift + Z        //Redo
+    -   Ctrl + F12      //outline
+    -   F12 / Shift + F12       //에러 위치로 이동(앞으로/뒤로)
 
 [편집기]
     -   Alt + 좌우 이동키        //편집기 이동
