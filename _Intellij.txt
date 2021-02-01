@@ -1,5 +1,6 @@
 [IDE]
     -   Ctrl + Alt + S      //환경설정
+    -   Ctrl + `        //Quick Change Theme || Color
 
 [코드]
     -   Ctrl + P        //인자값 즉시 보기
@@ -23,6 +24,10 @@
     -   Ctrl + Shift + Z        //Redo
     -   Ctrl + F12      //outline
     -   F12 / Shift + F12       //에러 위치로 이동(앞으로/뒤로)
+    -   Alt+Shift+Insert        //column mode (다중 커서) very useful
+    -   Ctrl + Q         //View | Quick Documentation
+    -   Ctrl + Space        //선언된 코드 오른쪽 자동 작성
+    -   Ctrl + Alt + F7     //Edit | Find | Show Usages - 변수가 어디어디에 쓰였는지 확인
 
 [편집기]
     -   Alt + 좌우 이동키        //편집기 이동
