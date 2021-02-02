@@ -1,6 +1,7 @@
 [IDE]
     -   Ctrl + Alt + S      //환경설정
     -   Ctrl + `        //Quick Change Theme || Color
+    -   Ctrl + Alt + U      //Dependency관계를 그림으로 확인
 
 [코드]
     -   Ctrl + P        //인자값 즉시 보기
