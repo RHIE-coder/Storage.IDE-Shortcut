@@ -34,6 +34,8 @@
     -   Ctrl + B        //심볼의 선언으로 이동
     -   Ctrl + Shift + Enter        //Complete Current Statement(현재 구문 완성)
     -   Ctrl + Ctrl     //Run Anything
+    -   Ctrl + Shift + 숫자     //북마크
+    -   Ctrl + 숫자     //북마크로 이동
 
 [편집기]
     -   Alt + 좌우 이동키        //편집기 이동
