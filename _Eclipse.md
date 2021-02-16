@@ -7,6 +7,7 @@
 ### 🧀 Ctrl + Shift + O : import 정리
 ### 🧀 Ctrl + L : 원하는 라인으로 이동
 ### 🧀 Alt + Shift + 방향키 : 블록선택하기
+### 🧀 Alt + Shift + A : Block Selection Mode
 ### 🧀 Ctrl + J : 점증적 검색 - Ctrl + J 입력후 원하는 단어 입력하면 이클립스 하단바에 찍히고 바로 검색 가능
 ### 🧀 Ctrl + K : 다음 찾기(Ctrl + Shift + K 이전 찾기)  - 현재 블럭설정된 단어 찾기
 ### 🧀 Ctrl + H : 검색 다이얼로그(메서드, 타입, 패키지 등 검색 가능)
