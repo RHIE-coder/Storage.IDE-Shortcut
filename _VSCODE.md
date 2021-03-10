@@ -16,10 +16,10 @@
 `ctrl`+`k` `ctrl`+`d` : 다음 같은 단어 위치 포커싱<br>
 `ctrl`+`f` : 찾기<br>
 `ctrl`+`h` : 찾기 + 바꾸기<br>
-    `f3` --> 다음 단어 위치 포커싱<br>
-    `shift`+`f3` --> 이전 단어 위치 포커싱ㄴ<br>
-    `alt`+`Enter` --> `alt`+`shift`+`l`<br>
-    `ctrl`+`alt`+`Enter` --> 모두 바꾸기<br>
+ - `f3` --> 다음 단어 위치 포커싱<br>
+ - `shift`+`f3` --> 이전 단어 위치 포커싱<br>
+ - `alt`+`Enter`<br>
+ - `ctrl`+`alt`+`Enter` --> 모두 바꾸기<br>
 
 `shift`+`alt`+`i` : 커서 맨끝(멀티)<br>
 `ctrl`+`shift`+`l` : 모두 선택<br>
