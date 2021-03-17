@@ -50,6 +50,8 @@
 `ctrl`+`k` `ctrl`+`u` : 주석 해제<br>
 `shift`+`alt`+`a` : 주석 블록<br>
 
+`ctrl`+`k` `ctrl`+`f` : 자동 정렬<br>
+
 # Code Area<br>
 
 `ctrl`+`스페이스바` : 코드 제안<br>
