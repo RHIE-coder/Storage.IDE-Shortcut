@@ -117,10 +117,13 @@
 
 # Vscode Extension <br>
  - prettier
- - indent window
- - auto rename tag
- - rest client
- - css peek
- - html css support
- - live sass compiler
- - emmet
+ - REST Client : using `.http` file do request
+ - WakTime : provide dashboard to show that what I have worked
+ - Polacode : provide code view and save function
+ - Visual Studio Live Share : Collaborate
+ - Indent Window
+ - Auto Rename Tag
+ - CSS Peek
+ - Html CSS Support
+ - Live SASS Compiler
+ - Emmet
