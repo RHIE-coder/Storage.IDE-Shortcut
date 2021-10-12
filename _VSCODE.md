@@ -116,7 +116,7 @@
 `ctrl`+`shift`+`m` : 에러 보기<br>
 
 # Vscode Extension <br>
- - prettier
+ - Prettier
  - REST Client : using `.http` file do request
  - WakTime : provide dashboard to show that what I have worked
  - Polacode : provide code view and save function
